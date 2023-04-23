@@ -1,0 +1,26 @@
+vv<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>aula6-atv7</title>
+</head>
+
+<body>
+  <table>
+    <h1>Maria Luiza Farias de Lima</h1>
+    <hr>
+    <ul>
+      <li>18 anos;</li>
+      <li>Brasielira;</li>
+      <li>Rua Buritiss, 255 - Água Fria - Rcife, PE;</li>
+      <li>(81) 979085029</li>
+    </ul>
+    <h2>Informações adicionais</h2>
+      <td><a href="https://teste-css.marialuiza163.repl.co/">Clique aqui!</a></td>
+  </table>
+ 
+</body>
+
+</html>
